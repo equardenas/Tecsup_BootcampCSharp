@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Estudios\\Bootcamp C#\\Clase 02\\Sesion01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B289290-5E68-4857-8668-591090875F4E}|Sesion01.csproj|c:\\estudios\\bootcamp c#\\clase 02\\sesion01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B289290-5E68-4857-8668-591090875F4E}|Sesion01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCC2F281-9DF3-4E22-BD90-319E3FEB7326}|..\\Bucle While\\Bucle While.csproj|c:\\estudios\\bootcamp c#\\clase 02\\bucle while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +19,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Estudios\\Bootcamp C#\\Clase 02\\Sesion01\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Estudios\\Bootcamp C#\\Clase 02\\Sesion01\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAUwB4AAAABAAAA",
+              "DocumentMoniker": "C:\\Estudios\\Bootcamp C#\\Clase 02\\Bucle While\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bucle While\\Program.cs",
+              "ToolTip": "C:\\Estudios\\Bootcamp C#\\Clase 02\\Bucle While\\Program.cs",
+              "RelativeToolTip": "..\\Bucle While\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwCYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T00:50:08.221Z",
+              "WhenOpened": "2024-09-05T02:11:03.318Z",
               "EditorCaption": ""
             }
           ]

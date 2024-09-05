@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sesion01", "Sesion01.csproj", "{5B289290-5E68-4857-8668-591090875F4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sesion01", "Sesion01.csproj", "{5B289290-5E68-4857-8668-591090875F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucles", "..\Bucle While\Bucles.csproj", "{CCC2F281-9DF3-4E22-BD90-319E3FEB7326}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5B289290-5E68-4857-8668-591090875F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B289290-5E68-4857-8668-591090875F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B289290-5E68-4857-8668-591090875F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC2F281-9DF3-4E22-BD90-319E3FEB7326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC2F281-9DF3-4E22-BD90-319E3FEB7326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC2F281-9DF3-4E22-BD90-319E3FEB7326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC2F281-9DF3-4E22-BD90-319E3FEB7326}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
